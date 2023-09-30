@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VedantSinha17
-- 📫 How to reach me - #vedantsinha2005@gmail.com
+- 📫 How to reach me - vedantsinha2005@gmail.com
 
 <!---
 VedantSinha17/VedantSinha17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
